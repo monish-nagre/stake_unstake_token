@@ -1,3 +1,5 @@
+#Clone git and understand the concept of stake_unstake_token.
+
 Simple Token Staking Contract: 
 
  Deploy Both Contract on remix 
